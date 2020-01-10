@@ -32,6 +32,7 @@ object PlayGround2 {
       .option("path", "src/main/resources/data/cars.json")
       .load()
 
+    println("c")
 
 carsDF.show(10)
 
