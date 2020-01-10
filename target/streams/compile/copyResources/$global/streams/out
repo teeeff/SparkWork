@@ -1,0 +1,19 @@
+[0m[[0mdebug[0m] [0mCopy resource mappings: [0m
+[0m[[0mdebug[0m] [0m	(/Users/tinufarid/IdeaProjects/SparkTest/src/main/resources/data,/Users/tinufarid/IdeaProjects/SparkTest/target/scala-2.11/classes/data)[0m
+[0m[[0mdebug[0m] [0m	(/Users/tinufarid/IdeaProjects/SparkTest/src/main/resources/data/bands.json,/Users/tinufarid/IdeaProjects/SparkTest/target/scala-2.11/classes/data/bands.json)[0m
+[0m[[0mdebug[0m] [0m	(/Users/tinufarid/IdeaProjects/SparkTest/src/main/resources/data/population.json,/Users/tinufarid/IdeaProjects/SparkTest/target/scala-2.11/classes/data/population.json)[0m
+[0m[[0mdebug[0m] [0m	(/Users/tinufarid/IdeaProjects/SparkTest/src/main/resources/data/guitars.json,/Users/tinufarid/IdeaProjects/SparkTest/target/scala-2.11/classes/data/guitars.json)[0m
+[0m[[0mdebug[0m] [0m	(/Users/tinufarid/IdeaProjects/SparkTest/src/main/resources/data/movies.json,/Users/tinufarid/IdeaProjects/SparkTest/target/scala-2.11/classes/data/movies.json)[0m
+[0m[[0mdebug[0m] [0m	(/Users/tinufarid/IdeaProjects/SparkTest/src/main/resources/data/guitarPlayers.json,/Users/tinufarid/IdeaProjects/SparkTest/target/scala-2.11/classes/data/guitarPlayers.json)[0m
+[0m[[0mdebug[0m] [0m	(/Users/tinufarid/IdeaProjects/SparkTest/src/main/resources/data/cars.json,/Users/tinufarid/IdeaProjects/SparkTest/target/scala-2.11/classes/data/cars.json)[0m
+[0m[[0mdebug[0m] [0m	(/Users/tinufarid/IdeaProjects/SparkTest/src/main/resources/data/more_cars.json,/Users/tinufarid/IdeaProjects/SparkTest/target/scala-2.11/classes/data/more_cars.json)[0m
+[0m[[0mdebug[0m] [0m	(/Users/tinufarid/IdeaProjects/SparkTest/src/main/resources/data/sample_text.txt,/Users/tinufarid/IdeaProjects/SparkTest/target/scala-2.11/classes/data/sample_text.txt)[0m
+[0m[[0mdebug[0m] [0m	(/Users/tinufarid/IdeaProjects/SparkTest/src/main/resources/data/yellow_taxi_jan_25_2018,/Users/tinufarid/IdeaProjects/SparkTest/target/scala-2.11/classes/data/yellow_taxi_jan_25_2018)[0m
+[0m[[0mdebug[0m] [0m	(/Users/tinufarid/IdeaProjects/SparkTest/src/main/resources/data/numbers.csv,/Users/tinufarid/IdeaProjects/SparkTest/target/scala-2.11/classes/data/numbers.csv)[0m
+[0m[[0mdebug[0m] [0m	(/Users/tinufarid/IdeaProjects/SparkTest/src/main/resources/data/sampleTextFile.txt,/Users/tinufarid/IdeaProjects/SparkTest/target/scala-2.11/classes/data/sampleTextFile.txt)[0m
+[0m[[0mdebug[0m] [0m	(/Users/tinufarid/IdeaProjects/SparkTest/src/main/resources/data/cars_dates.json,/Users/tinufarid/IdeaProjects/SparkTest/target/scala-2.11/classes/data/cars_dates.json)[0m
+[0m[[0mdebug[0m] [0m	(/Users/tinufarid/IdeaProjects/SparkTest/src/main/resources/data/taxi_zones.csv,/Users/tinufarid/IdeaProjects/SparkTest/target/scala-2.11/classes/data/taxi_zones.csv)[0m
+[0m[[0mdebug[0m] [0m	(/Users/tinufarid/IdeaProjects/SparkTest/src/main/resources/data/stocks.csv,/Users/tinufarid/IdeaProjects/SparkTest/target/scala-2.11/classes/data/stocks.csv)[0m
+[0m[[0mdebug[0m] [0m	(/Users/tinufarid/IdeaProjects/SparkTest/src/main/resources/data/yellow_taxi_jan_25_2018/part-00004-5ca10efc-1651-4c8f-896a-3d7d3cc0e925-c000.snappy.parquet,/Users/tinufarid/IdeaProjects/SparkTest/target/scala-2.11/classes/data/yellow_taxi_jan_25_2018/part-00004-5ca10efc-1651-4c8f-896a-3d7d3cc0e925-c000.snappy.parquet)[0m
+[0m[[0mdebug[0m] [0m	(/Users/tinufarid/IdeaProjects/SparkTest/src/main/resources/data/yellow_taxi_jan_25_2018/part-00000-5ca10efc-1651-4c8f-896a-3d7d3cc0e925-c000.snappy.parquet,/Users/tinufarid/IdeaProjects/SparkTest/target/scala-2.11/classes/data/yellow_taxi_jan_25_2018/part-00000-5ca10efc-1651-4c8f-896a-3d7d3cc0e925-c000.snappy.parquet)[0m
+[0m[[0mdebug[0m] [0m	(/Users/tinufarid/IdeaProjects/SparkTest/src/main/resources/data/yellow_taxi_jan_25_2018/_SUCCESS,/Users/tinufarid/IdeaProjects/SparkTest/target/scala-2.11/classes/data/yellow_taxi_jan_25_2018/_SUCCESS)[0m
